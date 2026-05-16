@@ -1,0 +1,24 @@
+{
+  "name": "nyamata-roads-dashboard",
+  "version": "1.0.0",
+  "description": "Interactive geospatial dashboard for Nyamata Roads network in Bugesera District",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "geospatial",
+    "leaflet",
+    "mapping",
+    "geojson"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
